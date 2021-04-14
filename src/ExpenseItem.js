@@ -9,7 +9,7 @@ function ExpenseItem() {
                 <div className="expense-item__price">$297.57</div>
             </div>
         </div>
-    )
+    );
 }
 
 export default ExpenseItem;
